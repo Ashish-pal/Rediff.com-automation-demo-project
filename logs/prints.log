@@ -1,0 +1,110 @@
+22:06:24.330 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+22:06:25.473 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+22:06:31.091 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+22:06:34.146 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+22:06:34.185 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+22:06:36.597 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+22:06:36.754 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+22:06:36.754 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+22:06:37.619 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+22:06:42.770 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+22:06:43.652 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+22:06:44.261 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+22:06:47.296 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+22:06:47.323 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+22:06:47.822 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+22:06:57.924 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+22:06:57.925 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+22:06:58.694 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+15:37:17.648 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+15:37:19.332 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+15:37:20.054 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+15:37:23.134 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+15:37:23.217 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+15:37:25.524 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+15:37:25.614 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+15:37:25.614 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+15:37:26.553 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+15:37:30.927 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+15:37:31.792 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+15:37:32.541 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+15:37:35.567 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+15:37:35.590 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+15:37:36.112 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+15:37:46.214 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+15:37:46.214 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+15:37:46.983 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+22:22:35.880 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+22:22:41.727 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+22:22:42.487 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+22:22:45.534 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+22:22:45.561 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+22:22:47.250 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+22:22:47.343 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+22:22:47.343 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+22:22:48.100 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+22:22:52.231 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+22:22:53.185 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+22:22:53.771 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+22:22:56.829 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+22:22:56.883 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+22:22:57.620 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+22:23:07.676 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+22:23:07.676 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+22:23:08.343 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:24:59.856 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:25:31.149 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:28:14.311 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:28:28.699 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:28:29.567 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:28:32.620 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:28:32.676 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:28:34.851 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:28:34.987 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+23:28:34.987 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:28:36.091 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:28:40.810 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:28:41.694 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:28:42.344 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:28:45.378 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:28:45.409 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:28:45.894 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:28:56.055 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+23:28:56.055 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:28:56.709 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:32:51.234 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:32:59.035 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:32:59.960 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:33:03.029 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:33:03.065 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:33:05.452 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:33:05.563 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+23:33:05.563 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:33:06.594 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:33:11.850 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:33:13.917 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:33:18.062 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:33:21.103 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:33:21.139 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:33:22.015 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:33:32.104 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+23:33:32.104 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:33:32.923 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:56:19.081 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:56:25.172 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:56:25.910 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:56:28.960 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:56:28.994 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:56:30.805 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:56:30.929 [TestNG-tests-3] DEBUG Tests.LoginTest - User login success
+23:56:30.929 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:56:31.971 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
+23:56:37.192 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser launched
+23:56:37.949 [TestNG-tests-3] DEBUG Tests.LoginTest - Open URL
+23:56:38.557 [TestNG-tests-3] DEBUG Tests.LoginTest - Clicked on Signin Button
+23:56:41.593 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Email Data
+23:56:41.622 [TestNG-tests-3] DEBUG Tests.LoginTest - Enter Password
+23:56:42.137 [TestNG-tests-3] DEBUG Tests.LoginTest - Click on Signin Submit button
+23:56:52.218 [TestNG-tests-3] DEBUG Tests.LoginTest - User login failed
+23:56:52.218 [TestNG-tests-3] INFO  Tests.LoginTest - Login test pass successful
+23:56:52.954 [TestNG-tests-3] DEBUG Tests.LoginTest - Browser Closed Here
